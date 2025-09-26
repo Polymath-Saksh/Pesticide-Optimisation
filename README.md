@@ -1,5 +1,9 @@
 # Pesticide Optimization using Reinforcement Learning
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-RL-green?logo=OpenAI&logoColor=white)
+![Agriculture](https://img.shields.io/badge/Agriculture-Optimization-brightgreen?logo=leaflet&logoColor=white)
+
 This project demonstrates the application of reinforcement learning (RL) algorithms to optimize pesticide usage in agriculture. The goal is to find an optimal policy that maintains crop health while minimizing environmental impact from pesticide use.
 
 ## Features
@@ -21,21 +25,11 @@ This project demonstrates the application of reinforcement learning (RL) algorit
 
 2. Install the required Python packages:
 
-```bash
+   ```bash
    pip install -r requirements.txt
-```
+   ```
 
 3. Open the notebook in VS Code or Jupyter Notebook:
-
-   ```bash
-   code pesticide_rl_notebook.ipynb
-   ```
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open the notebook in VS Code or Jupyter Notebook:
 
    ```bash
    code pesticide_rl_notebook.ipynb
