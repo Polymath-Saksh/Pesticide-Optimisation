@@ -15,7 +15,7 @@ This project demonstrates the application of reinforcement learning (RL) algorit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Polymath-Saksh/Pesticide-Optimization.git
+   git clone https://github.com/Polymath-Saksh/Pesticide-Optimisation.git
    cd Pesticides_RL
    ```
 
