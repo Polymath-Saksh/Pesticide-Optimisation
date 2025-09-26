@@ -53,18 +53,14 @@ This project demonstrates the application of reinforcement learning (RL) algorit
 ## Project Structure
 
 - `pesticide_rl_notebook.ipynb`: Main notebook containing the implementation and analysis.
-- **Environment**: Custom RL environment simulating agricultural dynamics.
-- **Agents**: Implementation of various RL algorithms.
-- **Analysis**: Statistical testing, policy interpretability, and sensitivity analysis.
+  - **Environment**: Custom RL environment simulating agricultural dynamics.
+  - **Agents**: Implementation of various RL algorithms.
+  - **Analysis**: Statistical testing, policy interpretability, and sensitivity analysis.
 
-## Contributing
+## Credits
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
+Developed by Saksham Kumar [Polymath-Saksh](https://github.com/Polymath-Saksh) as part of a research project on Reinforcement Learning.
 
 ## License
 
-This project is licensed under the Creative Commons BY-NC License. See the LICENSE file for details.
+This project is licensed under the Creative Commons BY-NC License. See the [LICENSE](LICENSE) file for details.
