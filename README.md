@@ -15,17 +15,27 @@ This project demonstrates the application of reinforcement learning (RL) algorit
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Polymath-Saksh/Pesticide-Optimization.git
    cd Pesticides_RL
    ```
 
 2. Install the required Python packages:
 
+```bash
+   pip install -r requirements.txt
+```
+
+3. Open the notebook in VS Code or Jupyter Notebook:
+
+   ```bash
+   code pesticide_rl_notebook.ipynb
+   ```
+
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Open the notebook in VS Code or Jupyter Notebook:
+4. Open the notebook in VS Code or Jupyter Notebook:
 
    ```bash
    code pesticide_rl_notebook.ipynb
